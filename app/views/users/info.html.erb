@@ -1,0 +1,13 @@
+<%= current_user.email %>
+
+<% if @subscription.active %>
+
+	subcribed
+	<% else %>
+
+	unsubcribed
+
+	 <%= render 'form' %>
+
+	<% end %>
+
