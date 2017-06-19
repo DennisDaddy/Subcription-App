@@ -1,2 +1,1 @@
-
-This is Stripe subscription payment project using stripe APIs
+Stripe subscription project
